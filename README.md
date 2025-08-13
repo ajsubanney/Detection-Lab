@@ -20,3 +20,11 @@ This Detection Lab project is aimed to establish a controlled environment for si
 
 ## Steps
 (drag & drop screenshots here) (Screenshots need additional explaination of what steps I took underneath)
+
+
+## 1. Setting up Kali Linux for VirtualboxVM  8/13/2025 
+I am going to be using Kali linux as an attack simulator on a virtual machine. 
+
+<img width="2560" height="1600" alt="Kali Linux Download" src="https://github.com/user-attachments/assets/6deb7ea5-9f0b-4943-8042-cda88b5806c3" />
+
+  2. 
