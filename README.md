@@ -22,9 +22,17 @@ This Detection Lab project is aimed to establish a controlled environment for si
 (drag & drop screenshots here) (Screenshots need additional explaination of what steps I took underneath)
 
 
-## 1. Setting up Kali Linux for VirtualboxVM  8/13/2025 
+## 1. Setting up applications in VirtualboxVM  8/13/2025 
 I am going to be using Kali linux as an attack simulator on a virtual machine. 
 
 <img width="2560" height="1600" alt="Kali Linux Download" src="https://github.com/user-attachments/assets/6deb7ea5-9f0b-4943-8042-cda88b5806c3" />
+
+
+
+I am going to use Cockpit for Network analysis.
+
+<img width="2560" height="1600" alt="cockpit 1" src="https://github.com/user-attachments/assets/a4ab1fc9-d808-4b34-a245-48dab6e4c090" />
+
+
 
   2. 
